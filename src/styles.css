@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.budget--green{
+  background: #7CC96B;
+}
+
+.budget--red{
+  background: #FF7A6E;
+}
